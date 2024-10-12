@@ -2,3 +2,5 @@ networkx
 streamlit
 pyyaml
 matplotlib
+japanize-matplotlib
+setuptools

@@ -1,0 +1,6 @@
+"\u5730\u65B9\u90FD\u5E02":
+  cpu_capacity: 100
+  failure_rate: 0.01
+  memory_capacity: 8000
+  node_id: "\u5317\u898B"
+  queue_size: 100
